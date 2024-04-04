@@ -18,7 +18,7 @@ I am a determined programmer looking to land a software engineering job in the n
 
 ## My Goals for The Future
 
-## Code using Dijkstra’s Algorithm I Learned
+## Code Snippet using Dijkstra’s Algorithm I Learned
 ```
 vector<tuple<string, string, double>> Graph::shortest_path_weighted(string const& start_label, string const& end_label) {
     unordered_map<string, double> distance;
