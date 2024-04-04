@@ -13,6 +13,23 @@ I am a determined programmer looking to land a software engineering job in the n
 ## Teaching Experience
 [My Teaching Portfolio](https://sites.google.com/view/brandonpanuco2270/home)
 
+## Research Experience
+• Became part of Professor Amy Ousterhout’s research team to follow up on their previous work “Zed: Leveraging 
+Data Types to Process Eclectic Data”.
+• My group and I proposed to evaluate the usability of Zed, a new system designed for processing large and 
+evolving datasets. As part of our proposed plan, we compared it to the following data models: JSON, SQlite3, 
+Asterix DB. Our work is detailed in Analyzing the Usability of Zed.
+• During my involvement in our project, I gained the following skills:
+o Creating bash scripts to process and store homogeneous and heterogeneous data sets
+o Use GitHub commands to add, commit, and push our work
+o Develop bash scripts to ingest and query data for all data models and to compress and uncompress large 
+datasets into GitHub
+o Develop python scripts to combine homogeneous data sets into a single heterogeneous data set, test for 
+ingestion correctness, and fix syntax issues preventing us from querying or ingesting data
+o Use Jq to query JSON data
+o Use Zed lakes and ZSON to process Zed and JSON data
+o Work with command-line arguments to query SQlite3 databases
+
 ## Inspiring Quotes
 > "A good programmer is someone who always looks both ways before crossing a one-way street" - Doug Linder<br>
 > "People don’t care about what you say, they care about what you build" – Mark Zuckerberg<br>
