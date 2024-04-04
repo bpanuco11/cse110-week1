@@ -20,15 +20,15 @@ Data Types to Process Eclectic Data”.<br>
 evolving datasets. As part of our proposed plan, we compared it to the following data models: JSON, SQlite3, 
 Asterix DB. Our work is detailed in Analyzing the Usability of Zed.<br>
 • During my involvement in our project, I gained the following skills:<br>
-o Creating bash scripts to process and store homogeneous and heterogeneous data sets
-o Use GitHub commands to add, commit, and push our work
+o Creating bash scripts to process and store homogeneous and heterogeneous data sets<br>
+o Use GitHub commands to add, commit, and push our work<br>
 o Develop bash scripts to ingest and query data for all data models and to compress and uncompress large 
-datasets into GitHub
+datasets into GitHub<br>
 o Develop python scripts to combine homogeneous data sets into a single heterogeneous data set, test for 
-ingestion correctness, and fix syntax issues preventing us from querying or ingesting data
-o Use Jq to query JSON data
-o Use Zed lakes and ZSON to process Zed and JSON data
-o Work with command-line arguments to query SQlite3 databases
+ingestion correctness, and fix syntax issues preventing us from querying or ingesting data<br>
+o Use Jq to query JSON data<br>
+o Use Zed lakes and ZSON to process Zed and JSON data<br>
+o Work with command-line arguments to query SQlite3 databases<br>
 
 ## Inspiring Quotes
 > "A good programmer is someone who always looks both ways before crossing a one-way street" - Doug Linder<br>
