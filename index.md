@@ -112,4 +112,8 @@ vector<tuple<string, string, double>> Graph::shortest_path_weighted(string const
 6. Experience with HTML and CSS to create Web Pages
 7. Debugging: jdb & gdb
 
+## Random Pick of my Old Dog
+Lucy
+![Lucy](lucy.jpg)
+
 #### [Back to Top](#Brandon-Panuco)
