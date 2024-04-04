@@ -1,4 +1,6 @@
-# About Me: Brandon Panuco
+#Brandon Panuco
+
+## About Me
 
 ## Programming Languages
 - Java
