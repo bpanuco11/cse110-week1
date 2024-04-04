@@ -14,8 +14,8 @@ I am a determined programmer looking to land a software engineering job in the n
 [My Teaching Portfolio](https://sites.google.com/view/brandonpanuco2270/home)
 
 ## Research Experience
-• Became part of Professor [*Amy Ousterhout’s*](https://amyousterhout.com/) research team to follow up on their previous work “Zed: Leveraging 
-Data Types to Process Eclectic Data”.<br>
+• Became part of Professor [*Amy Ousterhout’s*](https://amyousterhout.com/) research team to follow up on their previous work “[Zed: Leveraging 
+Data Types to Process Eclectic Data](https://amyousterhout.com/papers/zed_cidr23.pdf)”.<br>
 • My group and I proposed to evaluate the usability of Zed, a new system designed for processing large and 
 evolving datasets. As part of our proposed plan, we compared it to the following data models: JSON, SQlite3, 
 Asterix DB. Our work is detailed in Analyzing the Usability of Zed.<br>
