@@ -36,7 +36,14 @@ o Work with command-line arguments to query SQlite3 databases<br>
 > "Experience is the name everyone gives to their mistakes" – Oscar Wilde<br>
 > "Everyday life is like programming, I guess. If you love something, you can put beauty into it" – Donald Knuth<br>
 
-
+# My Programmer Bucketlist
+- [x] Got envolved in research
+- [x] Made new connections
+- [x] Learned more programming languages
+- [ ] Gained Software engineering skills
+- [x] Completed my resume
+- [ ] Got an intership
+- [x] Improved my work schedule
 
 ## Code Snippet using Dijkstra’s Algorithm I Learned
 ```
