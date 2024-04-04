@@ -19,7 +19,7 @@ Data Types to Process Eclectic Data”.<br>
 • My group and I proposed to evaluate the usability of Zed, a new system designed for processing large and 
 evolving datasets. As part of our proposed plan, we compared it to the following data models: JSON, SQlite3, 
 Asterix DB. Our work is detailed in Analyzing the Usability of Zed.<br>
-• During my involvement in our project, I gained the following skills:<br>
+• During my involvement in our project, I gained the following skills:<br><br>
 o Creating bash scripts to process and store homogeneous and heterogeneous data sets<br>
 o Use GitHub commands to add, commit, and push our work<br>
 o Develop bash scripts to ingest and query data for all data models and to compress and uncompress large 
