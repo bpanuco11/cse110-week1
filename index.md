@@ -113,7 +113,7 @@ vector<tuple<string, string, double>> Graph::shortest_path_weighted(string const
 7. Debugging: jdb & gdb
 
 ## Random Pick of my Old Dog
-~~Lucy Working on my Resume~~<br>
+~~Lucy Doing my Lab~~<br>
 ![Lucy](lucy.jpg)
 
 #### [Back to Top](#Brandon-Panuco)
