@@ -15,11 +15,11 @@ I am a determined programmer looking to land a software engineering job in the n
 
 ## Research Experience
 • Became part of Professor Amy Ousterhout’s research team to follow up on their previous work “Zed: Leveraging 
-Data Types to Process Eclectic Data”.
+Data Types to Process Eclectic Data”.<br>
 • My group and I proposed to evaluate the usability of Zed, a new system designed for processing large and 
 evolving datasets. As part of our proposed plan, we compared it to the following data models: JSON, SQlite3, 
-Asterix DB. Our work is detailed in Analyzing the Usability of Zed.
-• During my involvement in our project, I gained the following skills:
+Asterix DB. Our work is detailed in Analyzing the Usability of Zed.<br>
+• During my involvement in our project, I gained the following skills:<br>
 o Creating bash scripts to process and store homogeneous and heterogeneous data sets
 o Use GitHub commands to add, commit, and push our work
 o Develop bash scripts to ingest and query data for all data models and to compress and uncompress large 
