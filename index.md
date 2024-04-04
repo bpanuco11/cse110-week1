@@ -103,4 +103,13 @@ vector<tuple<string, string, double>> Graph::shortest_path_weighted(string const
     return path;
 }
 ```
+## Skills
+1. Can program in numerous high level programming languages
+2. Terminal/bash experience with projects
+3. Previously developed bash scripts to handle queries
+4. Advanced mathematics diploma
+5. IDEs: IntelliJ, Eclipse, PyCharm, Visual Studio 2019, VS Code
+6. Experience with HTML and CSS to create Web Pages
+7. Debugging: jdb & gdb
+
 #### [Back to Top](#Brandon-Panuco)
